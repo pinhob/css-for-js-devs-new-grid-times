@@ -70,7 +70,8 @@ const MarketCards = styled.div`
       repeat(auto-fill, minmax(150px, 1fr));
 `;
 
-const SportsSection = styled.section``;
+const SportsSection = styled.section`
+`;
 
 const SportsStories = styled.div`
     display: grid;
